@@ -1,0 +1,10 @@
+nav a{
+    margin-right: 20px;
+}
+
+nav a.active{
+    color: black;
+    background-color:gold;
+    padding: 5px;
+    border-radius: 10px;
+}
